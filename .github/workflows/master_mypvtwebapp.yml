@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mypvtwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CB151CD15454A5D870237CB121CFB71 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C718A1AB55240EE848AA729E6A92204 }}
           package: .
